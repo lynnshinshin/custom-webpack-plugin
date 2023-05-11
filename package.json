@@ -1,0 +1,24 @@
+{
+  "name": "custom-webpack-plugin",
+  "version": "1.0.0",
+  "description": "周凯柏自定义webpack插件",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynnshinshin/custom-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "vue"
+  ],
+  "author": "zhoukaibai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lynnshinshin/custom-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/lynnshinshin/custom-webpack-plugin#readme"
+}
