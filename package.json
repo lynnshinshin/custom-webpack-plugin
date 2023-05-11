@@ -1,7 +1,7 @@
 {
   "name": "custom-webpack-plugin",
   "version": "1.0.0",
-  "description": "周凯柏自定义webpack插件",
+  "description": "优化打包策略，剔除无用文件。帮助缩小打包体积，减少打包产物。",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
